@@ -192,7 +192,7 @@ async def repo_(client, message):
             InlineKeyboardButton('⚙️ Update Channel', url='https://t.me/TEAM_SILENT_KING'),     
         ],
         [
-            InlineKeyboardButton("🎞 How to Deploy", url='https://youtu.be/mnWgZMrNe_0'),
+            InlineKeyboardButton("🎞 How to Deploy", url='https://youtu.be/a4jNMLOZl70'),
             InlineKeyboardButton('🗑 Close', callback_data='close'),
         ]
     ]
